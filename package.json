@@ -1,0 +1,29 @@
+{
+  "name": "signalqub",
+  "version": "1.0.0",
+  "description": "Zero-auth web scraping API for Facebook, TikTok, Google Maps, LinkedIn, and Amazon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/signalqub-sdk"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "api",
+    "facebook-marketplace-api",
+    "tiktok-api",
+    "google-maps-scraper",
+    "zillow-api",
+    "lead-generation"
+  ],
+  "author": "Jacob Nifemi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://signalqub.com/docs"
+  },
+  "homepage": "https://signalqub.com"
+}
