@@ -1,22 +1,16 @@
-```markdown
 # SignalQub Node.js SDK
 
 [![NPM Version](https://img.shields.io/npm/v/signalqub.svg)](https://www.npmjs.com/package/signalqub)
 [![Website](https://img.shields.io/badge/Website-SignalQub.com-blue)](https://signalqub.com)
 
-The official Node.js client for [SignalQub](https://signalqub.com). Extract clean, structured JSON from social networks, marketplaces, search engines, and business directories without managing headless browsers, proxy rotation, or CAPTCHA solving.
+The official Node.js client for [SignalQub](https://signalqub.com). Extract public data from Reddit, Google Maps, YouTube, TikTok, and Facebook without logging in, managing proxies, or fighting CAPTCHAs. 
 
-Sign up and generate your API key at [signalqub.com](https://signalqub.com).
-
----
+Get a free API key at [signalqub.com](https://signalqub.com).
 
 ## Installation
 
-Run the following command in your project terminal:
-
 ```bash
 npm install signalqub
-
 ```
 
 ---
