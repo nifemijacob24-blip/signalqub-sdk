@@ -1,6 +1,6 @@
 {
   "name": "signalqub",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Zero-auth web scraping API for Facebook, TikTok, Google Maps, LinkedIn, and Amazon.",
   "main": "index.js",
   "scripts": {
